@@ -26,7 +26,7 @@ import pickle
 app = Flask(__name__)
 
 # Load Model
-model = numpy.loadtxt('models/mrf_merge.txt')
+#model = numpy.loadtxt('models/mrf_merge.txt')
 
 # @app.route('/<name>')
 # def index(name):
